@@ -9,8 +9,8 @@ Gem::Specification.new do |s|
 Javascript bindings for the Github API
 	EOF
 
-	s.authors = %w(fitzgen GutenYe)
-	s.email = %w(fitzgen@gmail.com ywzhaifei@gmail.com)
+	s.authors = %w(fitzgen)
+	s.email = %w(ywzhaifei@gmail.com)
 	s.homepage = "http://github.com/fitzgen/github-api-rails"
 	s.rubyforge_project = "xx"
 
