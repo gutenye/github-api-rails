@@ -11,7 +11,7 @@ Javascript bindings for the Github API
 
 	s.authors = %w(fitzgen)
 	s.email = %w(ywzhaifei@gmail.com)
-	s.homepage = "http://github.com/fitzgen/github-api-rails"
+	s.homepage = "http://github.com/GutenYe/github-api-rails"
 	s.rubyforge_project = "xx"
 
 	s.files = `git ls-files`.split("\n")
