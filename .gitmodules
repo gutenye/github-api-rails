@@ -1,0 +1,3 @@
+[submodule "github-api"]
+	path = github-api
+	url = https://github.com/fitzgen/github-api.git
